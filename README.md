@@ -6,9 +6,9 @@
 
 I am a Mobile and Js Developer, ı want to be a Full Stack.
  
- 🌱 I’m currently learning NODEJS
+ 🌱 I’m currently learning Swift
   
- 💬 Ask me about Flutter and JS
+ 💬 Ask me about Mobile
 
 
 ![Profile views](https://gpvc.arturio.dev/alidemircans)  <img src="https://img.shields.io/github/followers/alidemircans?label=Follow" style=" float:left, margin-right:10px" />
