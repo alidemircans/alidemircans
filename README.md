@@ -4,7 +4,7 @@
 
 ---
 
-I am a Mobile and Js Developer, ı want to be a Full Stack.
+I am a Mobile and Js Developer.
  
  🌱 I’m currently learning Swift
   
