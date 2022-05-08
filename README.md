@@ -4,7 +4,7 @@
 
 ---
 
-I am a Mobile and Js Developer.
+I am a Mobile Developer.
  
  🌱 I’m currently learning Swift
   
