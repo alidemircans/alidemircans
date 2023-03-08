@@ -1,6 +1,6 @@
 ### Hey Ali here 👋
 
-As a computer engineer who has worked with Flutter, Swift, JavaScript, and Solidity, I have successfully participated in large-scale projects with my strong algorithmic thinking skills and problem-solving abilities. Additionally, due to my inclination towards team work, I have also been successful in team projects. I have worked with many startups and corporate companies as well as sectors such as healthcare, Fintech, Delivery.
+As a computer engineer who has worked with Flutter, Swift, JavaScript, and Solidity, I have successfully participated in large-scale projects with my strong algorithmic thinking skills and problem-solving abilities.
 
 ![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
